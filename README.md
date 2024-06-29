@@ -29,4 +29,4 @@ This repository contains the code and files related to the Intelligent Systems (
 ## Results
 The Neural Network model demonstrated superior performance in predicting the age of abalones, with lower error rates and good explained variance in both training and test data.
 
-**P.S.:** For more details, refer to the complete report in the ProjetoSI.pdf file.
+**P.S.:** For more details, refer to the complete report in the relatorio.pdf file.
